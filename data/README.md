@@ -3,7 +3,7 @@ Power BI dashboard analyzing container loading and unloading data across Turkish
 
 ## Kaynak
 - Veri: Ulaştırma ve Altyapı Bakanlığı Açık Veri Portalı
-- URL: (https://data.uab.gov.tr/)
+- URL: (https://www.uab.gov.tr/istatistikler)
 - Lisans: Açık veri kullanım koşullarına tabidir
 
 ## İçerik
