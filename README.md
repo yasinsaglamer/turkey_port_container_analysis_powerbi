@@ -24,7 +24,7 @@ Bu proje, **Ulaştırma ve Altyapı Bakanlığı'nın açık veri portalında** 
 - Türkiye genelinde trend analizleri  
 
 ## 📚 Veri Kaynağı
-- Veri: [Ulaştırma ve Altyapı Bakanlığı Açık Veri Portalı](https://data.uab.gov.tr/)  
+- Veri: [Ulaştırma ve Altyapı Bakanlığı Açık Veri Portalı](https://www.uab.gov.tr/istatistikler)  
 - Lisans: Açık veri kullanım koşullarına uygundur
 
 ## ✨ Hazırlayan
