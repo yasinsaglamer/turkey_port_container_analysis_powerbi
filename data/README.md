@@ -1,5 +1,5 @@
 # turkey_port_container_analysis_powerbi
-Power BI dashboard analyzing container loading and unloading data across Turkish ports using open data from the Ministry of Transport and Infrastructure. Includes visualizations of port based trends and yearly container traffic.
+Ulaştırma ve Altyapı Bakanlığı'nın açık verilerini kullanarak Türkiye limanlarında konteyner yükleme ve boşaltma verilerini analiz eden Power BI panosu. Liman bazlı eğilimleri ve yıllık konteyner trafiğini gösteren görselleştirmeler içerir.
 
 ## Kaynak
 - Veri: Ulaştırma ve Altyapı Bakanlığı Açık Veri Portalı
