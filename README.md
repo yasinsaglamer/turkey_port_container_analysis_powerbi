@@ -35,7 +35,7 @@ Bu proje, **Ulaştırma ve Altyapı Bakanlığı'nın açık veri portalında** 
 
 # Container Movement Analysis in Turkish Ports
 
-This project was conducted using container loading and unloading statistics recorded in the **Ministry of Transport and Infrastructure's open data portal**. The aim is to visualize container buildings in Turkish ports and analyze **empty/full ratios** and **yearly changes**.
+This project was conducted using container loading and unloading statistics recorded in the **Ministry of Transport and Infrastructure's open data portal**. The aim is to visualize container buildings in Turkish ports and analyze **empty full ratios** and **yearly changes**.
 
 ## 🔍 Tools Used
 - **Power BI** – Visualization and interactive analysis
@@ -46,7 +46,7 @@ This project was conducted using container loading and unloading statistics reco
 - `data/`: Raw data and data source descriptions
 - Contains container loading and unloading statistics in Turkish ports.
 - The data source and format information are specified in the `README.md` file in this folder.
-- `report/`: Power BI file (`turkey_port_container_analiz_powerbi.pbix`)
+- `report/`: Power BI file (`turkey_port_container_analysis_powerbi_eng.pbix`)
 - Visualizes annual and monthly container movements.
 - Interactive filters allow analysis by year, port, and container type.
 - `visuals/`: Report screenshots and details
