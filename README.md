@@ -31,3 +31,38 @@ Bu proje, **Ulaştırma ve Altyapı Bakanlığı'nın açık veri portalında** 
 📍 Yasin Sağlamer  
 🎓 Yıldız Teknik Üniversitesi – İstatistik Bölümü  
 📬 LinkedIn: [linkedin.com/in/yasinsaglamer](https://linkedin.com/in/yasinsaglamer)
+
+
+# Container Movement Analysis in Turkish Ports
+
+This project was conducted using container loading and unloading statistics recorded in the **Ministry of Transport and Infrastructure's open data portal**. The aim is to visualize container buildings in Turkish ports and analyze **empty/full ratios** and **yearly changes**.
+
+## 🔍 Tools Used
+- **Power BI** – Visualization and interactive analysis
+- **CSV / Excel** – Raw data management
+- **GitHub** – Version control and sharing
+
+## 📁 Repo Structure and Contents
+- `data/`: Raw data and data source descriptions
+- Contains container loading and unloading statistics in Turkish ports.
+- The data source and format information are specified in the `README.md` file in this folder.
+- `report/`: Power BI file (`turkey_port_container_analiz_powerbi.pbix`)
+- Visualizes annual and monthly container movements.
+- Interactive filters allow analysis by year, port, and container type.
+- `visuals/`: Report screenshots and details
+- The dashboard's overview and sample views are located here.
+
+## 📊 Report Content
+- Annual and loading/unloading graphs
+- Full and empty containers
+- Total container movements by year
+- Trend analyses across Turkey
+
+## 📚 Data Source
+- Data: [Ministry of Transport and Infrastructure Open Data Portal](https://www.uab.gov.tr/istatistikler)
+- License: Complies with open data terms of use
+
+## ✨Prepared by
+📍Yasin Sağlamer
+🎓 Yıldız Technical University – Department of Statistics
+📬 LinkedIn: [linkedin.com/in/yasinsaglamer](https://linkedin.com/in/yasinsaglamer)
